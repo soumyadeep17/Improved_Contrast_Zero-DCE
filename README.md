@@ -27,8 +27,7 @@ This Project is for non-commercial use only.
 
 ## Results
 
-Insert gif or link to demo
-
+https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image1.png
 
 ## Documentation
 
