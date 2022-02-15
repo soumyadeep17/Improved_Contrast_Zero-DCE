@@ -35,17 +35,15 @@ This Project is for non-commercial use only.
 ![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image10.png)
 ![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image3.png)
 ![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image6.png)
-![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image7.png)
-![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image8.png)
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[My Paper for this Code](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/IPCV_report_final.pdf)
 
 
 ## FAQ
 
-#### Why can't I open the 'Improved_Contrast_Zero_DCE_with_Results.ipynb' file?
+#### - Why can't I open the 'Improved_Contrast_Zero_DCE_with_Results.ipynb' file?
 
 The size of the notebook has increased due to inclusion of results. Therefore to view this file you need to download it first to your system.
 
