@@ -24,7 +24,7 @@ This Project is for non-commercial use only.
 - Open CV 4.5.4.60
 - torchvision 0.11.2
 - Nvidia GPU (I used Kaggle GPU)
-- 
+
 ## Authors
 
 - [@Soumyadeep17](https://github.com/soumyadeep17/)
@@ -43,7 +43,7 @@ This Project is for non-commercial use only.
 
 ## FAQ
 
-#### - Why can't I open the 'Improved_Contrast_Zero_DCE_with_Results.ipynb' file?
+#### Why can't I open the 'Improved_Contrast_Zero_DCE_with_Results.ipynb' file?
 
 The size of the notebook has increased due to inclusion of results. Therefore to view this file you need to download it first to your system.
 
@@ -52,6 +52,7 @@ The size of the notebook has increased due to inclusion of results. Therefore to
 ## Feedback
 
 If you have any feedback, please reach out to me at soumyadeep171198@gmail.com
+If you like it Leave a Star.😊
 
 
 ## License
