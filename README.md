@@ -58,7 +58,7 @@ The training took approximately 1.5 hrs on kaggle GPU using 432 images.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at soumyadeep171198@gmail.com.
+If you have any feedback, please reach out to me at this [mail](soumyadeep171198@gmail.com).
 
 If you like it Leave a Star.😊
 
