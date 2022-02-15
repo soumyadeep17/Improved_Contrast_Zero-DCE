@@ -13,6 +13,10 @@ This Project is for non-commercial use only.
 
 
 
+## My Additions to the Original Code
+- Implemented CLAHE algorithm while training the model.
+- Implemented Simplest Colour Balance and Noise Reduction to the results of the model
+
 ## Requirements
 
 - Python 3.9.7
@@ -20,14 +24,19 @@ This Project is for non-commercial use only.
 - Open CV 4.5.4.60
 - torchvision 0.11.2
 - Nvidia GPU (I used Kaggle GPU)
+- 
 ## Authors
 
 - [@Soumyadeep17](https://github.com/soumyadeep17/)
 
-
 ## Results
 
 ![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image1.png)
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image10.png)
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image3.png)
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image6.png)
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image7.png)
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image8.png)
 
 ## Documentation
 
@@ -50,21 +59,3 @@ If you have any feedback, please reach out to me at soumyadeep171198@gmail.com
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
