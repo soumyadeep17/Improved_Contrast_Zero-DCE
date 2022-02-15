@@ -25,7 +25,7 @@
 - Open CV 4.5.4.60
 - torchvision 0.11.2
 - Nvidia GPU (I used Kaggle GPU)
-- Training Data is taken from the original paper. 432 Images are used for training the model.
+- [Training Data](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/tree/main/data/train_data) is taken from the original paper. 432 Images are used for training the model.
 - You may use more from this [link](https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3/view)(this containes 2002 training samples).
 
 ## Authors
