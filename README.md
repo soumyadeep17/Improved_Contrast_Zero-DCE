@@ -27,7 +27,7 @@ This Project is for non-commercial use only.
 
 ## Results
 
-https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image1.png
+![This is an image](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/Results/image1.png)
 
 ## Documentation
 
